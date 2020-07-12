@@ -1,2 +1,2 @@
-# flask_blog
+# Flask Blog
 A small flask blog application
